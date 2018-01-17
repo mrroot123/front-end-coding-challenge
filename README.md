@@ -6,3 +6,9 @@ Setup
 - Run `npm install` to install dependencies
 - Run `npm start` to start the static server
 - Open `http://localhost:9000`
+
+Submit
+---
+
+- Submit a Pull Request back to this repository with your completed challenge code.
+- Please complete within 24 hours.
