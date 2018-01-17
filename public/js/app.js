@@ -45,5 +45,4 @@ export default class TagBrowserWidget {
     //check to see if it was a tag that was clicked and render
     //the list of series that have the matching tags
   }
-
 }
